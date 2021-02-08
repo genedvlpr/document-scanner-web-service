@@ -1,5 +1,5 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyDWO8L3dS2-rVcu5EBCPuFkLB6LJcXSkd8",
+  apiKey: "[API_KEY]",
     authDomain: "document-scanner-e7e49.firebaseapp.com",
     databaseURL: "https://document-scanner-e7e49.firebaseio.com",
     projectId: "document-scanner-e7e49",
