@@ -1,0 +1,53 @@
+
+body{
+    font-family: 'Product Sans', sans-serif;
+}
+.my-card-content {
+    padding: 16px;
+  }
+.div_form{
+    margin-top: 126px;
+}
+#input_container_2{
+    margin-top: -10px;
+}
+
+#input_container_1{ 
+    margin: 0%;
+}
+
+#crd-search{
+    background-color: #ECEFF1; 
+    height: 56px;
+    padding: 10px;  
+}
+
+#toolbar{
+    background-color: #ECEFF1; 
+    color: #37474F;
+}
+
+#side-nav{
+    background-color: #ECEFF1;
+}
+
+section article #hits .list {
+    list-style: none;
+    padding: 0;
+  }
+
+  section article #hits {
+    padding: 0 15px;
+  }
+
+  section article .hit {
+    margin-bottom: 10px;
+    height: 130px;
+    border: 1px solid #f3f3f3;
+  }
+
+#row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }  

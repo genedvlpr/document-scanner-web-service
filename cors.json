@@ -1,0 +1,8 @@
+[
+   {
+     "origin": ["gs://document-scanner-e7e49.appspot.com"],
+     "method": ["GET"],
+     "responseHeader": ["Content-Type"],
+     "maxAgeSeconds": ["3600"]
+   }
+]
